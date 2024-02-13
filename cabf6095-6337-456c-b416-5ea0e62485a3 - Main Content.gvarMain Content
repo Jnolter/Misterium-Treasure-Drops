@@ -4786,5 +4786,5 @@
       }
     ]
   ],
-  "footer": "Loot Tables | DMG 136 | !hoard [cr] | !treasure [cr] | !mitable [table] [#] for magic item table"
+  "footer": "Loot Tables | DMG 136 | !hoard [cr] | !treasure [sl] | !mitable [table] [#] for magic item table"
 }
