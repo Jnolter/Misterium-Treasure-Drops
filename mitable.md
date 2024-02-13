@@ -7,4 +7,4 @@ You can also set defaults so it will automatically roll on preset tables when yo
 To do so, simply run `!svar mitableDefault PRESETS HERE`
 Format them in a list, e.g. `!svar mitableDefault ["a","2","b","1d4","d","f"]` rolls 2 items on A, 1d4 on B, and 1 each on D and F.
 
-Blatantly stolen from croebh who can be supported at [Ko-Fi](https://ko-fi.com/croebh)
+Blatantly stolen from Croebh who can be supported at [Ko-Fi](https://ko-fi.com/croebh)
